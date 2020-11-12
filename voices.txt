@@ -1,0 +1,355 @@
+Voice: Alex
+ - ID: com.apple.speech.synthesis.voice.Alex
+ - Languages: ['en_US']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Alice
+ - ID: com.apple.speech.synthesis.voice.alice
+ - Languages: ['it_IT']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Alva
+ - ID: com.apple.speech.synthesis.voice.alva
+ - Languages: ['sv_SE']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Amelie
+ - ID: com.apple.speech.synthesis.voice.amelie
+ - Languages: ['fr_CA']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Anna
+ - ID: com.apple.speech.synthesis.voice.anna
+ - Languages: ['de_DE']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Carmit
+ - ID: com.apple.speech.synthesis.voice.carmit
+ - Languages: ['he_IL']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Damayanti
+ - ID: com.apple.speech.synthesis.voice.damayanti
+ - Languages: ['id_ID']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Daniel
+ - ID: com.apple.speech.synthesis.voice.daniel.premium
+ - Languages: ['en_GB']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Diego
+ - ID: com.apple.speech.synthesis.voice.diego
+ - Languages: ['es_AR']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Ellen
+ - ID: com.apple.speech.synthesis.voice.ellen
+ - Languages: ['nl_BE']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Fiona
+ - ID: com.apple.speech.synthesis.voice.fiona
+ - Languages: ['en-scotland']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Fred
+ - ID: com.apple.speech.synthesis.voice.Fred
+ - Languages: ['en_US']
+ - Gender: VoiceGenderMale
+ - Age: 30
+
+
+Voice: Ioana
+ - ID: com.apple.speech.synthesis.voice.ioana
+ - Languages: ['ro_RO']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Joana
+ - ID: com.apple.speech.synthesis.voice.joana
+ - Languages: ['pt_PT']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Jorge
+ - ID: com.apple.speech.synthesis.voice.jorge
+ - Languages: ['es_ES']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Juan
+ - ID: com.apple.speech.synthesis.voice.juan
+ - Languages: ['es_MX']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Kanya
+ - ID: com.apple.speech.synthesis.voice.kanya
+ - Languages: ['th_TH']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Karen
+ - ID: com.apple.speech.synthesis.voice.karen
+ - Languages: ['en_AU']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Kate
+ - ID: com.apple.speech.synthesis.voice.kate.premium
+ - Languages: ['en_GB']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Kyoko
+ - ID: com.apple.speech.synthesis.voice.kyoko
+ - Languages: ['ja_JP']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Laura
+ - ID: com.apple.speech.synthesis.voice.laura
+ - Languages: ['sk_SK']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Lekha
+ - ID: com.apple.speech.synthesis.voice.lekha
+ - Languages: ['hi_IN']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Luca
+ - ID: com.apple.speech.synthesis.voice.luca
+ - Languages: ['it_IT']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Luciana
+ - ID: com.apple.speech.synthesis.voice.luciana
+ - Languages: ['pt_BR']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Maged
+ - ID: com.apple.speech.synthesis.voice.maged
+ - Languages: ['ar_SA']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Mariska
+ - ID: com.apple.speech.synthesis.voice.mariska
+ - Languages: ['hu_HU']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Mei-Jia
+ - ID: com.apple.speech.synthesis.voice.mei-jia.premium
+ - Languages: ['zh_TW']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Melina
+ - ID: com.apple.speech.synthesis.voice.melina
+ - Languages: ['el_GR']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Milena
+ - ID: com.apple.speech.synthesis.voice.milena
+ - Languages: ['ru_RU']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Moira
+ - ID: com.apple.speech.synthesis.voice.moira
+ - Languages: ['en_IE']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Monica
+ - ID: com.apple.speech.synthesis.voice.monica
+ - Languages: ['es_ES']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Nora
+ - ID: com.apple.speech.synthesis.voice.nora
+ - Languages: ['nb_NO']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Oliver
+ - ID: com.apple.speech.synthesis.voice.oliver.premium
+ - Languages: ['en_GB']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Paulina
+ - ID: com.apple.speech.synthesis.voice.paulina
+ - Languages: ['es_MX']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Rishi
+ - ID: com.apple.speech.synthesis.voice.rishi
+ - Languages: ['en_IN']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Samantha
+ - ID: com.apple.speech.synthesis.voice.samantha
+ - Languages: ['en_US']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Sara
+ - ID: com.apple.speech.synthesis.voice.sara
+ - Languages: ['da_DK']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Satu
+ - ID: com.apple.speech.synthesis.voice.satu
+ - Languages: ['fi_FI']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Serena
+ - ID: com.apple.speech.synthesis.voice.serena.premium
+ - Languages: ['en_GB']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Sin-ji
+ - ID: com.apple.speech.synthesis.voice.sin-ji.premium
+ - Languages: ['zh_HK']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Tessa
+ - ID: com.apple.speech.synthesis.voice.tessa
+ - Languages: ['en_ZA']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Thomas
+ - ID: com.apple.speech.synthesis.voice.thomas
+ - Languages: ['fr_FR']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Ting-Ting
+ - ID: com.apple.speech.synthesis.voice.ting-ting.premium
+ - Languages: ['zh_CN']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Veena
+ - ID: com.apple.speech.synthesis.voice.veena
+ - Languages: ['en_IN']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Victoria
+ - ID: com.apple.speech.synthesis.voice.Victoria
+ - Languages: ['en_US']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Xander
+ - ID: com.apple.speech.synthesis.voice.xander
+ - Languages: ['nl_NL']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Yelda
+ - ID: com.apple.speech.synthesis.voice.yelda
+ - Languages: ['tr_TR']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Yuna
+ - ID: com.apple.speech.synthesis.voice.yuna
+ - Languages: ['ko_KR']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Yuri
+ - ID: com.apple.speech.synthesis.voice.yuri
+ - Languages: ['ru_RU']
+ - Gender: VoiceGenderMale
+ - Age: 35
+
+
+Voice: Zosia
+ - ID: com.apple.speech.synthesis.voice.zosia
+ - Languages: ['pl_PL']
+ - Gender: VoiceGenderFemale
+ - Age: 35
+
+
+Voice: Zuzana
+ - ID: com.apple.speech.synthesis.voice.zuzana
+ - Languages: ['cs_CZ']
+ - Gender: VoiceGenderFemale
+ - Age: 35
