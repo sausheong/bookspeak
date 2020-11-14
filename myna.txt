@@ -1,0 +1,153 @@
+ROOST CHARACTERISTICS OF INVASIVE MYNAS IN SINGAPORE
+
+
+Abstract: We identified factors affecting the selection of roost sites by invasive white-vented (Acridotheres javanicus)
+and common (A. tristis) mynas in urban Singapore. In addition, we examined the effects of experimentally manipulating canopy cover and food abundance on roosting populations. Multivariate analysis, binary logistic regression,
+and the Akaike Information Criterion (AIC) showed that mynas selected roost trees with dense canopies that were
+closer by 603.5 m to food centers and surrounded by 2.6% more vegetation than random non-roost trees. Based
+on Wilks’ Lambda, we ranked canopy density as the most important variable, followed by proximity to food centers. Canopy density and food abundance manipulation experiments showed that although both resulted in a
+decrease in the number of roosting mynas, canopy density reduction had a greater effect, as predicted by the roostselection model. The canopy of existing roosts can be thinned to alleviate the problem caused by roosting mynas.
+Stringent control of refuse at food centers also should be implemented to make such areas less attractive to mynas.
+Planting large and densely covered trees, particularly angsana (Pterocarpus indicus) and tropical apple (Eugenia
+grandis), near food centers should be avoided by park and urban managers.
+
+
+Mynas are invading urban areas throughout the
+world, particularly in Asia and Australia (Pell and
+Tidemann 1997, Feare and Craig 1998). The most
+common species of mynas in Singapore are whitevented and common mynas (Ward 1968, Kang
+1989). Mynas are not indigenous to Singapore.
+White-vented mynas were probably introduced
+there around 1924, while common mynas extended their natural range from the Malay Peninsula to
+Singapore in 1936 (Gibson-Hill 1949). Mynas thrive
+in areas of human habitation such as cities and gardens (King et al. 1975). In urban areas, they rely on
+human refuse as a supply of food (Kang 1989).
+The urbanization of the Singapore landscape has
+been accompanied by a dramatic rise in myna
+populations. In 2000, there were about 168,000
+white-vented and 27,000 common mynas on the
+main island of Singapore (H. C. Lim, National
+University of Singapore, unpublished data).
+
+Large roosting populations of white-vented and
+common mynas are a source of noise pollution in
+residential parts of Singapore and other parts of
+Asia and Australia (MacDonald 1973, Feare and
+Craig 1998). Mynas roost communally throughout the year, and these roosts can house several
+hundred individuals (Gadgil and Ali 1975). Mynas
+call loudly when entering and leaving their communal roosts—even at night when they are startled (C. J. Hails, Ministry of National Development, Singapore, unpublished data). This chorus
+of hundreds of mynas can be loud and _ has
+prompted many complaints from residents to
+authorities in Singapore (S. P. Tee, National Parks
+Board of Singapore |Nparks], personal communication). Their fecal droppings pollute reservoirs, walkways, cars, buildings, and pedestrians.
+Other negative ecological effects stemming from
+communal roosts include substantial damage to
+trees from both limb-breaking and accumulation
+of droppings, unpleasant odors, hazards to aircraft when roosts are near airfields, and growth
+of fungi (e.g., Histoplasma capsulatum) in feces
+that may cause human respiratory ailments
+(Brough 1969, Vining and Weeks 1974).
+
+Consequently, many people regard these large
+communal bird roosts as a major nuisance (Garner 1978). Attempts have been made in many
+parts of the world to disperse or eradicate roosts
+of many bird species by shooting, poisoning, or
+scaring them (e.g., with balloons), but all with
+limited success (Cummings 1979, Mott 1980).
+The use of short-term control measures (e.g., bioacoustics, chemical repellents, shooting) to eliminate myna roosts in Singapore has been largely
+unsuccessful (Kang et al. 1990).
+
+Many wildlife management programs have
+shifted their emphasis toward ecological
+approaches to vertebrate pest control, based on
+understanding the ecology of the pest species,
+specifically its habitat and food requirements
+(Dyer and Ward 1977, Kang et al. 1990). Because
+mynas have highly diverse habitat requirements,
+a control program aimed at removing all resources such as food, nesting, or roosting sites
+would be logistically unrealistic (Kang et al.
+1990). Habitat modification is considered a more
+feasible long-term approach to roost management (C. J. Hails, Ministry of National Development, Singapore, unpublished data). Once the
+habitat has been modified to deter roosting
+birds, maintaining the changes to the habitat
+would be logistically more feasible in terms of the
+personnel and equipment needed to carry out
+the maintenance. Roost-site preferences of
+mynas and other bird species have been studied
+with the aim of manipulating roost habitats.
+Structural characteristics of roost trees (e.g., tree
+canopy density and girth of the trunk) that differentiated them from non-roost trees have been
+identified for some species of birds such as blackbirds (Agelaius spp.; Lyon and Caccamise 1981),
+turkeys (Meleagris spp.; Rumble 1992), and mynas
+(Acridotheres spp.; Kang and Yeo 1993). Other factors including proximity to food sources, drinking
+water, and human structures, combined with the
+structural characteristics of the habitat to influence
+the selection of roosting sites by birds such as
+starlings (Sturnus spp.; Kuroda 1973), blackbirds
+(Meanly 1965), and mynas (Kang and Yeo 1993).
+
+The impact of the large roosting myna population on the public in Singapore has prompted the
+search for a long-term management solution. Previous studies have been conducted to determine
+the roost-site preference of mynas in Singapore
+(Kang and Yeo 1993; C. J. Hails, Ministry of National Development, Singapore, unpublished data).
+However, these studies were not comprehensive,
+as they did not include other crucial factors such
+as access to food resources and the percentage of
+different types of land use around the roost.
+
+The purpose of our study was to comprehensively determine the myna roost site characteristics in Singapore with the aim of formulating
+sound, ecologically based management strategies
+for the long-term control of roosting sites. First,
+we identified the most important factors affecting
+the selection of roost trees by mynas. Second, we
+compared the effect of experimentally manipulating the 2 most important roost determinants
+(canopy cover and food abundance) on the number of roosting mynas.
+
+STUDY AREA
+
+We conducted this study on the main island of
+Singapore (01°37’N, 103°75’E). The island has an
+area of 648 km? and a human population of 3.9
+million (Singapore Department of Statistics,
+http://www.singstat.gov.sg/). The annual precipitation was 2,353 mm, and average daily humidity
+was 84%. The temperature ranged annually from
+the average minimum of 24 °C to the average
+maximum of 31 °C (Meteorological Service Singapore, http://www.gov.sg/metsin/).
+
+METHODS
+Identification of Roost-Site Characteristics
+
+Field research for the roost-site-selection component of the study was carried out in Singapore
+from 20 April to 5 June 2001. We obtained a list of
+possible roost sites from Nparks, the Agri-food and
+Veterinary Authority of Singapore, and personal
+contacts. We defined a roost site as an area in
+which a concentration of roost trees was found. We
+surveyed all the potential sites from the list and
+selected 30 sites where more than half of the
+ground directly under the trees was covered by
+bird feces and which residents confirmed were
+active roost sites. We reconfirmed the sites by actual sightings during subsequent field surveys conducted between 1800 and 2000. As both species of
+mynas commonly roost together (Feare and Craig
+1998), we assumed that the roost-site characteristics of both species were the same, and selected
+roosts that were occupied by either 1 or both
+species of mynas. The total number of mynas at
+each site ranged from approximately 1,000 to
+17,000. At each roost site, we randomly chose 1
+roost tree for measurement. A non-roost tree was
+defined as a tree not used by roosting mynas. We
+randomly chose 30 non-roost trees from maps
+obtained from the Singapore Street Directory (Anonymous 1998). If any of these randomly chosen trees
+were used by roosting mynas, then another tree
+not used by roosting mynas was chosen randomly
+instead for measurements. All roost and non-roost
+trees were planted by Nparks in a similar fashion.
+
+Using Wee (1989), we identified the trees to
+species. We measured total tree height, clear bole
+height, canopy height, canopy radius, and diameter at breast height. We estimated canopy volume using the Arbor Structure method (Melville
+et al. 1999) and estimated canopy density using a
+densiometer (Lemmon 1957). We estimated the
+distance from the tree to the nearest food center
+and railway track from the Singapore Street Directory
+

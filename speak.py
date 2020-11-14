@@ -7,10 +7,8 @@ import sys, getopt, pyttsx3
 # either read the book out aloud or save it to an mp3 file
 def speak(bookfile, audiofile, voice, rate):
     engine = pyttsx3.init()
-    if voice != '':
-      engine.setProperty('voice', voice)      
-    if rate != '':
-      engine.setProperty('rate', int(rate))
+    if voice != '': engine.setProperty('voice', voice)      
+    if rate != '': engine.setProperty('rate', int(rate))
 
    # clean up a bit on the text to remove newlines, but not remove paragraph lines
     book = open(bookfile, 'r').read()\

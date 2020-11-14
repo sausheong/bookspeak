@@ -1,0 +1,34 @@
+DYNAMIC MODELS OF SEGREGATION
+
+Some segregation results from the practices of organizations, some from specialized communication
+systems, some from correlation with a variable that is non-random; and some results from the
+interplay of individual choices. This is an abstract study of the interactive dynamics of discriminatory
+individual choices. One model is a simulation in which individual members of two recognizable
+groups distribute themselves in neighborhoods defined by reference to their own locations. A second
+model is analytic and deals with compartmented space. A final section applies the analytics to
+‘neighborhood tipping.’ The systemic effects are found to be overwhelming: there is no simple
+correspondence of individual incentive to collective results. Exaggerated separation and patterning
+result from the dynamics of movement. Inferences about individual motives can usually not be drawn
+from aggregate patterns. Some unexpected phenomena, like density and vacancy, are generated.
+A general theory of ‘tipping’ begins to emerge.
+
+People get separated along many lines and in many ways. There is segregation by
+Sex, age, income, language, religion, color, taste, comparative advantage and the
+accidents of historical location. Some segregation results from the practices of
+organizations; some is deliberately organized; and some results from the interplay
+of individual choices that discriminate. Some of it results from specialized communication systems, like different languages. And some segregation is a corollary
+of other modes of segregation: residence is correlated with job location and transport.
+
+If blacks exclude whites from their church, or whites exclude blacks, the segregation
+is organized, and it may be reciprocal or one-sided. If blacks just happen to be Baptists
+and whites Methodists, the two colors will be segregated Sunday morning whether
+they intend to be or not. If blacks join a black church because they are more comfortable
+among their own color, and whites a white church for the same reason, undirected
+individual choice can lead to segregation. And if the church bulletin board is where
+people advertise rooms for rent, blacks will rent rooms from blacks and whites from
+whites because of a communication system that is correlated with churches that are
+correlated with color.
+
+Some of the same mechanisms segregate college professors. The college may own
+some housing, from which all but college staff are excluded. Professors choose housing
+commensurate with their incomes, and houses are clustered by price while professors
